@@ -1,2 +1,2 @@
 # Google-data-analytics-professional-certificate
-contains my weekly assignments and notes
+contains my week wise assignments and notes
